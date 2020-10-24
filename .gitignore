@@ -12,9 +12,9 @@
 *.ld
 /Core/Inc/*
 !/Core/Inc/cnn.h
-!/Core/Src/cnn.c
 /Core/Src/*
 !/Core/Src/main.c
+!/Core/Src/cnn.c
 /Core/Startup
 *.exe
 *.o
