@@ -1,11 +1,10 @@
-/*
-!.gitignore
-!README.md
-/dev/
-!/dev/*
+/**
+!/.gitignore
+!/README.md
+!/dev/
 !/Core
-/Core/*
+/Core/**
 !/Core/Src/cnn.c
 !/Core/Src/main.c
-/Inc/*
+/Inc/**
 !/Core/Inc/cnn.h
