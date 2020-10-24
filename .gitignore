@@ -1,7 +1,7 @@
 *
 !.gitignore
 !README.md
-!*/dev/*
-!*/Core/Src/cnn.c
-!*/Core/Src/main.c
-!*/Core/Inc/cnn.h
+!./dev/*
+!./Core/Src/cnn.c
+!./Core/Src/main.c
+!./Core/Inc/cnn.h
