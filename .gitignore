@@ -10,7 +10,11 @@
 *.launch
 *.ioc
 *.ld
-/Core/**
+/Core/Inc/*
 !/Core/Inc/cnn.h
 !/Core/Src/cnn.c
+/Core/Src/*
 !/Core/Src/main.c
+/Core/Startup
+*.exe
+*.o
